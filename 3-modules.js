@@ -1,4 +1,4 @@
-
+console.log('Tao thay đổi file này')
 
 const names = require('./4-name')
 const sayHi = require('./5-utils')
